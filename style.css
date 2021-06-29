@@ -1,0 +1,46 @@
+.pagetitle {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold}
+.content { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #000000}
+.content a:active { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #0000FF}
+.content a:link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #0000FF }
+.content a:visited { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal; color: #0000FF }
+.content a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: Red;
+}
+.contentBold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; color: #000000 }
+.contentBold a:active {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #0000FF
+}
+.contentBold a:link {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #0000FF
+}
+.contentBold a:visited {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #0000FF
+}
+.contentBold a:hover {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: Red;
+}
+.navigatie {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; color: #FFFFFF}
+.navigatie a:active { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-weight: bold; color: #FFFFFF ; text-decoration: none }
+.navigatie a:link { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; color: #FFFFFF ; text-decoration: none }
+.navigatie a:visited { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; color: #FFFFFF ; text-decoration: none }
+.navigatie a:hover { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; color: #CCCCCC; text-decoration: none}
